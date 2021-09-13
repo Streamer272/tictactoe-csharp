@@ -1,0 +1,16 @@
+/mnt/HDD/Applications/JetBrains/Projects/RiderProjects/tictactoe/tictactoe/bin/Debug/net5.0/tictactoe
+/mnt/HDD/Applications/JetBrains/Projects/RiderProjects/tictactoe/tictactoe/bin/Debug/net5.0/tictactoe.deps.json
+/mnt/HDD/Applications/JetBrains/Projects/RiderProjects/tictactoe/tictactoe/bin/Debug/net5.0/tictactoe.runtimeconfig.json
+/mnt/HDD/Applications/JetBrains/Projects/RiderProjects/tictactoe/tictactoe/bin/Debug/net5.0/tictactoe.runtimeconfig.dev.json
+/mnt/HDD/Applications/JetBrains/Projects/RiderProjects/tictactoe/tictactoe/bin/Debug/net5.0/tictactoe.dll
+/mnt/HDD/Applications/JetBrains/Projects/RiderProjects/tictactoe/tictactoe/bin/Debug/net5.0/ref/tictactoe.dll
+/mnt/HDD/Applications/JetBrains/Projects/RiderProjects/tictactoe/tictactoe/bin/Debug/net5.0/tictactoe.pdb
+/mnt/HDD/Applications/JetBrains/Projects/RiderProjects/tictactoe/tictactoe/obj/Debug/net5.0/tictactoe.csproj.AssemblyReference.cache
+/mnt/HDD/Applications/JetBrains/Projects/RiderProjects/tictactoe/tictactoe/obj/Debug/net5.0/tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/HDD/Applications/JetBrains/Projects/RiderProjects/tictactoe/tictactoe/obj/Debug/net5.0/tictactoe.AssemblyInfoInputs.cache
+/mnt/HDD/Applications/JetBrains/Projects/RiderProjects/tictactoe/tictactoe/obj/Debug/net5.0/tictactoe.AssemblyInfo.cs
+/mnt/HDD/Applications/JetBrains/Projects/RiderProjects/tictactoe/tictactoe/obj/Debug/net5.0/tictactoe.csproj.CoreCompileInputs.cache
+/mnt/HDD/Applications/JetBrains/Projects/RiderProjects/tictactoe/tictactoe/obj/Debug/net5.0/tictactoe.dll
+/mnt/HDD/Applications/JetBrains/Projects/RiderProjects/tictactoe/tictactoe/obj/Debug/net5.0/ref/tictactoe.dll
+/mnt/HDD/Applications/JetBrains/Projects/RiderProjects/tictactoe/tictactoe/obj/Debug/net5.0/tictactoe.pdb
+/mnt/HDD/Applications/JetBrains/Projects/RiderProjects/tictactoe/tictactoe/obj/Debug/net5.0/tictactoe.genruntimeconfig.cache
